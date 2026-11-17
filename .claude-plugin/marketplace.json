@@ -1,0 +1,12 @@
+{
+  "name": "connecxit",
+  "owner": { "name": "ConnecXit", "email": "support@connecxit.com" },
+  "metadata": { "description": "Sample skills for using ConnecXit from Claude: event planning and vendor workflows." },
+  "plugins": [
+    {
+      "name": "connecxit",
+      "source": "./plugins/connecxit",
+      "description": "ConnecXit connector plus skills for planners (briefings, budgets, vendor shortlists) and vendors (RFP quotes, listings, availability)."
+    }
+  ]
+}

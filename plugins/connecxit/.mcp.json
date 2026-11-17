@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "connecxit": {
+      "type": "http",
+      "url": "https://connecxit.com/api/mcp"
+    }
+  }
+}

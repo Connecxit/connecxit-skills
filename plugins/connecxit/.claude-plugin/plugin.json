@@ -1,0 +1,9 @@
+{
+  "name": "connecxit",
+  "version": "1.0.0",
+  "description": "Use your ConnecXit account from Claude: event briefings, budget checks and vendor shortlists for planners; RFP quotes, listing updates and availability for vendors.",
+  "author": { "name": "ConnecXit", "email": "support@connecxit.com", "url": "https://connecxit.com" },
+  "homepage": "https://connecxit.com/connect",
+  "license": "MIT",
+  "keywords": ["events", "event-planning", "vendors", "marketplace", "mcp"]
+}
