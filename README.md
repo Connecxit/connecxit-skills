@@ -21,7 +21,7 @@ status; skills point you to connecxit.com for those. Vendor changes need the
 ## Claude Code
 
 ```
-/plugin marketplace add d1hawkins/connecxit-skills
+/plugin marketplace add connecxit/connecxit-skills
 /plugin install connecxit@connecxit
 ```
 
